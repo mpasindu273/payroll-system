@@ -1,0 +1,11 @@
+C:\Users\user1\Desktop\exam programs\salary\salary\bin\Debug\salary.exe.config
+C:\Users\user1\Desktop\exam programs\salary\salary\bin\Debug\salary.exe
+C:\Users\user1\Desktop\exam programs\salary\salary\bin\Debug\salary.pdb
+C:\Users\user1\Desktop\exam programs\salary\salary\bin\Debug\salary.xml
+C:\Users\user1\Desktop\exam programs\salary\salary\obj\Debug\salary.Form1.resources
+C:\Users\user1\Desktop\exam programs\salary\salary\obj\Debug\salary.Resources.resources
+C:\Users\user1\Desktop\exam programs\salary\salary\obj\Debug\salary.vbproj.GenerateResource.Cache
+C:\Users\user1\Desktop\exam programs\salary\salary\obj\Debug\salary.exe
+C:\Users\user1\Desktop\exam programs\salary\salary\obj\Debug\salary.xml
+C:\Users\user1\Desktop\exam programs\salary\salary\obj\Debug\salary.pdb
+C:\Users\user1\Desktop\exam programs\salary\salary\obj\Debug\salary.Form2.resources
